@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-I have a background in machine learning with several Kaggle projects. To solidify my knowledge and get certified, I'm restudying through a Udemy course by **Kirill Eremenko** and **Hadelin de Ponteves**. This repository documents my course journey, including projects and exercises.
+I have a background in machine learning with couple of Kaggle projects which mentioned in repositories. To solidify my knowledge and get certified, I'm restudying through a Udemy course by **Kirill Eremenko** and **Hadelin de Ponteves**. This repository documents my course journey, including projects and exercises.
 
 ## Course Details
 - **Course Name**: Machine Learning A-Z™: Hands-On Python & R In Data Science
